@@ -103,10 +103,10 @@ packages:
     dependency: "direct main"
     description:
       name: local_auth
-      sha256: "34753df503e7d798ec38e10ecab6d5e79eb1be8396132fe2f7d1296317507c35"
+      sha256: "7e6c63082e399b61e4af71266b012e767a5d4525dd6e9ba41e174fd42d76e115"
       url: "https://pub.dev"
     source: hosted
-    version: "2.1.0"
+    version: "2.1.7"
   local_auth_android:
     dependency: transitive
     description:
@@ -250,4 +250,4 @@ packages:
     version: "0.1.4-beta"
 sdks:
   dart: ">=3.1.0-185.0.dev <4.0.0"
-  flutter: ">=2.8.0"
+  flutter: ">=3.10.0"
